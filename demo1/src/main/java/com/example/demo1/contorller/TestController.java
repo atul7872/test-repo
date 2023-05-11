@@ -10,8 +10,6 @@ public class TestController {
 		Student st = new Student();
 		st.setFname("Atul");
 		st.setNameid(2);
-		System.out.println("Atul syso");
-		System.out.println("Atul syso new syso");
 		return st;
 	}
 }
